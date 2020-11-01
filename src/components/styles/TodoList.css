@@ -1,0 +1,6 @@
+.todos-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 96%;
+  padding: 0 0.5rem;
+}
