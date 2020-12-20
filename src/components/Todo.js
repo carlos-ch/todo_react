@@ -6,7 +6,7 @@ const Todo = ({
   id, todo, checkHandler, deleteHandler,
 }) => (
   <article id={id} className={`todo-wrapper ${todo.done ? 'done' : ''}`}>
-    <input className="checkbox" onClick={checkHandler} type="checkbox" name="done"/>
+    <input className="checkbox" onClick={checkHandler} type="checkbox" name="done" checked={todo.done}/>
     <button
       onClick={deleteHandler}
       className={`btn todo--btn__delete ${todo.done ? 'hide' : ''}`}

@@ -1,8 +1,10 @@
 # To-do list React App
 
 This project was created using the React library
+
 ## Available Scripts
 
+First do `npm i` install the necessary dependencies.
 In the project directory, you can run:
 
 ### `yarn start`
