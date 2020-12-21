@@ -3,7 +3,7 @@
 This todo list project was created using the React library.
 The stated is also persisted in the local storage, so refreshing the page won't reset the list.
 
-[Click here for a demo of the app] (https://carlos-ch.github.io/todo_react/)
+[Click here for a demo of the app](https://carlos-ch.github.io/todo_react/)
 
 ## Available Scripts
 
